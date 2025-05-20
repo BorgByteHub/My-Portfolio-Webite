@@ -50,7 +50,15 @@ This site highlights my projects, skills, achievements, blogs, and includes a fu
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure 
+Varun Gautam
+🔹 Student Developer (9th Grade)
+🔹 HTML | CSS | JavaScript | Python
+🔹 💌 borgbytehub@gmail.com
+🔹 🌍 Delhi NCR, India
+📌 Portfolio: borgdevweb.web.app
+
+---
 
 ```bash 
 📁 portfolio/
@@ -62,11 +70,10 @@ This site highlights my projects, skills, achievements, blogs, and includes a fu
  ┣ 📄 blog.html
  ┗ 📄 contact.html
 
+⭐ Show Some Love
+If you liked this portfolio or found it useful:
 
-## 📂 Folder Structure 
-Varun Gautam
-🔹 Student Developer (9th Grade)
-🔹 HTML | CSS | JavaScript | Python
-🔹 💌 borgbytehub@gmail.com
-🔹 🌍 Delhi NCR, India
-📌 Portfolio: borgdevweb.web.app
+🌟 Star this repo
+🍴 Fork it
+🔁 Share with friends
+🛠️ Use it as inspiration for your own site!
