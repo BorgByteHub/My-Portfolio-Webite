@@ -1,0 +1,199 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url(PlusJakartaSans-SemiBold.ttf);
+  }
+  
+  @font-face {
+    font-family: 'MyFont2';
+    src: url(Autography-DOLnW.otf);
+  }
+  
+  @font-face {
+    font-family: 'MyFont3';
+    src: url(Poppins-Light.woff);
+  }
+  
+  @font-face {
+    font-family: 'MyFont4';
+    src: url(Poppins-SemiBold.woff);
+  }
+  
+  @font-face {
+    font-family: 'MyFont5';
+    src: url(Poppins-ExtraBold.woff);
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  
+  body {
+    background-color: rgb(24, 24, 24);
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: #ffffff;
+  }
+  
+  /* Blog Section Styling */
+  .blog-section {
+    background: transparent;
+    text-align: center;
+    padding: 2rem 1rem;
+  }
+  
+  #b {
+    font-family: MyFont5;
+    font-size: 2.2rem;
+    background: linear-gradient(90deg, #ff6a00, #ee0979);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .blog-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .blog-card {
+    background: linear-gradient(90deg, #ff6a00, #ee0979);
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: left;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .blog-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .o {
+    font-family: MyFont4;
+    font-size: 1.25rem;
+    color: #ffffff;
+  }
+  
+  .blog-date {
+    color: #ffffff;
+    font-size: 0.9em;
+    margin-top: 0.2rem;
+  }
+  
+  .blog-snippet {
+    font-family: MyFont3;
+    font-size: 0.9rem;
+    margin: 10px 0;
+    color: #ffffff;
+  }
+  
+  .read-more {
+    text-decoration: none;
+    color: #fefefe;
+    font-weight: bold;
+    font-family: MyFont3;
+  }
+  
+  .Ch2 {
+    font-family: MyFont5;
+    font-size: 1.5rem;
+    color: #ffffff;
+  }
+  
+  .cp2 {
+    font-size: 0.8rem;
+    opacity: 0.8;
+    font-family: MyFont3;
+    color: #fefefe;
+    max-width: 550px;
+    margin: 0 auto;
+  }
+  
+  .More-blogs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 0 1rem;
+  }
+  
+  .blog-footer {
+    background: linear-gradient(90deg, #ff6a00, #ee0979);
+    color: #ffffff;
+    text-align: center;
+    font-family: MyFont5;
+    padding: 20px;
+    font-size: 0.8rem;
+  }
+  
+  a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #00ffcc;
+  }
+  
+  /* ✅ Responsive Media Queries */
+  @media (max-width: 768px) {
+    #b {
+      font-size: 1.8rem;
+    }
+  
+    .blog-container {
+      padding: 1rem;
+    }
+  
+    .blog-card {
+      padding: 1rem;
+    }
+  
+    .o {
+      font-size: 1.1rem;
+    }
+  
+    .blog-snippet {
+      font-size: 0.85rem;
+    }
+  
+    .cp2 {
+      font-size: 0.8rem;
+      width: 100%;
+    }
+  
+    .Ch2 {
+      font-size: 1.3rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    #b {
+      font-size: 1.6rem;
+    }
+  
+    .blog-card {
+      padding: 0.9rem;
+    }
+  
+    .o {
+      font-size: 1rem;
+    }
+  
+    .cp2 {
+      font-size: 0.8rem;
+    }
+  
+    .Ch2 {
+      font-size: 1.1rem;
+    }
+  }
+  

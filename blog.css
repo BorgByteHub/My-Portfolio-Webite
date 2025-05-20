@@ -1,0 +1,106 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url(PlusJakartaSans-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: 'MyFont2';
+  src: url(Autography-DOLnW.otf);
+}
+
+@font-face {
+  font-family: 'MyFont3';
+  src: url(Poppins-Light.woff);
+}
+
+@font-face {
+  font-family: 'MyFont4';
+  src: url(Poppins-SemiBold.woff);
+}
+
+@font-face {
+  font-family: 'MyFont5';
+  src: url(Poppins-ExtraBold.woff);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(24, 24, 24);
+  color: #ffffff;
+  line-height: 1.7;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+ 
+  color: #00ffcc;
+}
+
+.blog-header {
+  background: linear-gradient(90deg, #ff6a00, #ee0979);
+  color: #ffffff;
+  padding: 20px 20px 20px;
+  text-align: center;
+}
+
+.blog-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0px;
+ font-family: MyFont5;
+  font-size: 30px;
+}
+
+.blog-header .subtitle {
+  font-size: 1.2rem;
+  opacity: 0.8;
+  font-family: MyFont3;
+  margin-top: 0;
+}
+
+.blog-content {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.blog-section {
+  margin-bottom: 40px;
+}
+
+.blog-section h2 {
+  font-size: 1.6rem;
+  color: #ffffff;
+  margin-bottom: 10px;
+  font-family: MyFont4;
+}
+
+.blog-section p,
+.blog-section ul {
+  font-size: 1rem;
+  font-family: MyFont3;
+}
+
+.blog-section ul {
+  padding-left: 20px;
+}
+
+.blog-footer {
+  background: linear-gradient(90deg, #ff6a00, #ee0979);
+  color: #ffffff;
+  text-align: center;
+  font-family: MyFont5;
+  padding: 20px;
+  font-size: 0.9rem;
+}
