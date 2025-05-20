@@ -23,7 +23,7 @@ This site highlights my projects, skills, achievements, blogs, and includes a fu
 
 > _Live demo preview of the portfolio website._
 
-![BORG DEV Preview](https://via.placeholder.com/1200x600.png?text=Portfolio+Preview+Coming+Soon)
+![BORG DEV Preview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fborgbyte_hub%2Fim-a-9th-grader-built-my-own-developer-portfolio-check-out-borgdev-1j9l&psig=AOvVaw3hy85yK9_wJnIDOPipZltB&ust=1747817412590000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCDirLVsY0DFQAAAAAdAAAAABAL)
 
 > _You can replace this placeholder with a real screenshot or GIF._
 
