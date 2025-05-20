@@ -45,12 +45,19 @@ This site highlights my projects, skills, achievements, blogs, and includes a fu
 
 📁 portfolio/
  ┣ 📁 images/
+ 
  ┃ ┣ 📄 images, icons, etc.
+ 
  ┣ 📄 index.html
+ 
  ┣ 📄 style.css
+ 
  ┣ 📄 script.js
+ 
  ┣ 📄 blog.html
+ 
  ┗ 📄 contact.html
+ 
  ┗ 📄 fonts
 ---
 
