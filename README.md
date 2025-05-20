@@ -19,19 +19,9 @@ This site highlights my projects, skills, achievements, blogs, and includes a fu
 
 ---
 
-## 📸 Preview
-
-> _Live demo preview of the portfolio website._
-
-![BORG DEV Preview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fborgbyte_hub%2Fim-a-9th-grader-built-my-own-developer-portfolio-check-out-borgdev-1j9l&psig=AOvVaw3hy85yK9_wJnIDOPipZltB&ust=1747817412590000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCDirLVsY0DFQAAAAAdAAAAABAL)
-
-> _You can replace this placeholder with a real screenshot or GIF._
-
----
-
 ## ✨ Features
 
-- 👤 Clean and personal **About Me** section  
+- 👤 Clean and minimal & Stylish
 - 💼 Dynamic **Projects** showcase  
 - 📚 Firebase-ready **Blog** system  
 - 📬 Functional **Contact Form** via Web3Forms  
@@ -50,17 +40,9 @@ This site highlights my projects, skills, achievements, blogs, and includes a fu
 
 ---
 
+
 ## 📂 Folder Structure 
-Varun Gautam
-🔹 Student Developer (9th Grade)
-🔹 HTML | CSS | JavaScript | Python
-🔹 💌 borgbytehub@gmail.com
-🔹 🌍 Delhi NCR, India
-📌 Portfolio: borgdevweb.web.app
 
----
-
-```bash 
 📁 portfolio/
  ┣ 📁 assets/
  ┃ ┣ 📄 images, icons, etc.
@@ -70,9 +52,20 @@ Varun Gautam
  ┣ 📄 blog.html
  ┗ 📄 contact.html
 
-⭐ Show Some Love
-If you liked this portfolio or found it useful:
+---
 
+## 🧑‍🎓 Author
+Varun Gautam
+🔹 Student Developer (9th Grade)
+🔹 HTML | CSS | JavaScript | Python
+🔹 💌 borgbytehub@gmail.com
+🔹 🌍 Delhi NCR, India
+📌 Portfolio: borgdevweb.web.app
+
+---
+
+## ⭐ Show Some Love
+If you liked this portfolio or found it useful:
 🌟 Star this repo
 🍴 Fork it
 🔁 Share with friends
