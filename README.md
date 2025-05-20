@@ -44,6 +44,7 @@ This site highlights my projects, skills, achievements, blogs, and includes a fu
 ## 📂 Folder Structure 
 
 📁 portfolio/
+
  ┣ 📁 images/
  
  ┃ ┣ 📄 images, icons, etc.
